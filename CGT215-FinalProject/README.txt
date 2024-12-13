@@ -1,0 +1,1 @@
+This project was inspired by googles own web version of snake. I enjoy the game alot so I decided to recreate it. I couldn't get the motions of the snake as fluid as google has it but this is my first game I have made. I hope you enjoy it as much as I do. (PS my highscore in this game was 45).
